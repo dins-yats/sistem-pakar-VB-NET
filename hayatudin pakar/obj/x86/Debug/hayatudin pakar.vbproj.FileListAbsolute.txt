@@ -1,0 +1,33 @@
+c:\users\ayath\documents\visual studio 2010\Projects\hayatudin pakar\hayatudin pakar\bin\Debug\hayatudin pakar.exe
+c:\users\ayath\documents\visual studio 2010\Projects\hayatudin pakar\hayatudin pakar\bin\Debug\hayatudin pakar.pdb
+c:\users\ayath\documents\visual studio 2010\Projects\hayatudin pakar\hayatudin pakar\bin\Debug\hayatudin pakar.xml
+c:\users\ayath\documents\visual studio 2010\Projects\hayatudin pakar\hayatudin pakar\obj\x86\Debug\hayatudin_pakar.Resources.resources
+c:\users\ayath\documents\visual studio 2010\Projects\hayatudin pakar\hayatudin pakar\obj\x86\Debug\hayatudin pakar.vbproj.GenerateResource.Cache
+c:\users\ayath\documents\visual studio 2010\Projects\hayatudin pakar\hayatudin pakar\obj\x86\Debug\hayatudin pakar.exe
+c:\users\ayath\documents\visual studio 2010\Projects\hayatudin pakar\hayatudin pakar\obj\x86\Debug\hayatudin pakar.xml
+c:\users\ayath\documents\visual studio 2010\Projects\hayatudin pakar\hayatudin pakar\obj\x86\Debug\hayatudin pakar.pdb
+c:\users\ayath\documents\visual studio 2010\Projects\hayatudin pakar\hayatudin pakar\obj\x86\Debug\hayatudin_pakar.Login.resources
+c:\users\ayath\documents\visual studio 2010\Projects\hayatudin pakar\hayatudin pakar\obj\x86\Debug\hayatudin_pakar.diagnosa.resources
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin pakar.exe
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin pakar.xml
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin pakar.pdb
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\bin\Debug\hayatudin pakar.exe
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\bin\Debug\hayatudin pakar.pdb
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\bin\Debug\hayatudin pakar.xml
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin_pakar.diagnosa.resources
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin_pakar.Login.resources
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin_pakar.index.resources
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin_pakar.Resources.resources
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin pakar.vbproj.GenerateResource.Cache
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin_pakar.Dashboard.resources
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\bin\Debug\hayatudin pakar.exe.config
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin pakar.vbprojResolveAssemblyReference.cache
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin_pakar.asma.resources
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin_pakar.Flu.resources
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin_pakar.Kolera.resources
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin_pakar.sars.resources
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar - coba coba\hayatudin pakar\obj\x86\Debug\hayatudin_pakar.muntaber.resources
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar -\hayatudin pakar\bin\Debug\hayatudin pakar.exe.config
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar -\hayatudin pakar\obj\x86\Debug\hayatudin pakar.exe
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar -\hayatudin pakar\obj\x86\Debug\hayatudin pakar.xml
+C:\Users\ayath\Documents\Visual Studio 2010\Projects\hayatudin pakar -\hayatudin pakar\obj\x86\Debug\hayatudin pakar.pdb
