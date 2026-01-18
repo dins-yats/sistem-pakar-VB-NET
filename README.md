@@ -1,4 +1,10 @@
-<p align="center"><a href="#" target="_blank"><img src="https://github.com/dins-yats/sistem-pakar-VB-NET/main/pakar.png"></a></p>
+<!-- <p align="center"><a href="#" target="_blank"><img src="https://github.com/dins-yats/sistem-pakar-VB-NET/main/pakar.png"></a></p> -->
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/dins-yats/sistem-pakar-VB-NET/main/pakar.png" width="300">
+  </a>
+</p>
+
 
 ## About The Project
 
